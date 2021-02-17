@@ -1,10 +1,11 @@
 import React from 'react'
+import { HeaderConainer } from './HeaderStyled';
 
 const Header = () => {
   return (
-    <div>
+    <HeaderConainer>
         <h1>Baralho dos Signos</h1>
-    </div>
+    </HeaderConainer>
   );
 }
 
