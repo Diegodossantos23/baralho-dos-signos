@@ -66,7 +66,7 @@ const HomePage = () => {
 
             <CardSignos
                 signo="Capricornio" startData="22/12"
-                endData="21/01" IMAGE={CapricornioIcon}
+                endData="21/01" image={CapricornioIcon}
             />
         </div>
     </div>
