@@ -3,12 +3,13 @@ import CardSignos from '../../components/CardSigno/CardSigno'
 import Header from '../../components/Header/Header'
 import {AriesIcon, LibraIcon, LeaoIcon, CapricornioIcon, TouroIcon, PeixesIcon, CancerIcon, SargitaroIcon, EscorpiaoIcon, AquarioIcon, VirgemIcon,
 GemeosIcon} from '../../constants/Iconsurl' 
+import {FlexBox} from './HomeStyled'
 
 const HomePage = () => {
   return (
     <div>
         <Header/>
-        <div>
+        <FlexBox>
             <CardSignos
                 signo="Aquário" startDate="21/01"
                 endDate="19/02" image={AquarioIcon}
@@ -68,7 +69,7 @@ const HomePage = () => {
                 signo="Capricornio" startDate="22/12"
                 endDate="21/01" image={CapricornioIcon}
             />
-        </div>
+        </FlexBox>
     </div>
   );
 }
