@@ -1,9 +1,17 @@
 import React from 'react'
 
-const CardSignos = () => {
+const CardSignos = (props) => {
   return (
     <div>
-        CardSignos
+        <div>
+            {props.signo}
+        </div>
+
+        <img src={props.image} alt={props.signo}/>
+
+        <div>
+            {props.startDate} - {props.endData}
+        </div>
     </div>
   );
 }
