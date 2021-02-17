@@ -9,5 +9,5 @@ export const EscorpiaoIcon = "https://cdn.icon-icons.com/icons2/320/PNG/128/Scor
 export const AquarioIcon = "https://cdn.icon-icons.com/icons2/320/PNG/128/Aquarius_34528.png"
 export const VirgemIcon = "https://cdn.icon-icons.com/icons2/320/PNG/128/Virgo_34517.png"
 export const GemeosIcon = "https://cdn.icon-icons.com/icons2/320/PNG/128/Gemini_34524.png"
-
+export const AriesIcon = "https://cdn.icon-icons.com/icons2/1278/PNG/128/1497562283-aries-zodiac-sign_85080.png"
 
