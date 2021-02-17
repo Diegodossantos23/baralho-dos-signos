@@ -1,18 +1,19 @@
 import React from 'react'
+import {CardContainer} from './CardSginoStyled'
 
 const CardSignos = (props) => {
   return (
-    <div>
-        <div>
+    <CardContainer>
+        <h3>
             {props.signo}
-        </div>
+        </h3>
 
         <img src={props.image} alt={props.signo}/>
 
-        <div>
-            {props.startDate} - {props.endData}
-        </div>
-    </div>
+        <p>
+            {props.startDate} - {props.endDate}
+        </p>
+    </CardContainer>
   );
 }
 
