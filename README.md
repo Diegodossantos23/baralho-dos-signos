@@ -23,11 +23,11 @@
   </p>
 
 <!-- imgs -->
-<p align="center">
+<div align="center">
 
  ![BACKGROUND](https://github.com/Diegodossantos23/baralho-dos-signos/blob/main/assets/baralho-signos.gif?raw=true)
- ![BACKGROUND](https://github.com/Diegodossantos23/baralho-dos-signos/blob/main/assets/baralho-signos.gif?raw=true)
-</p>
+
+</div>
 
 ## 🔨 Tecnologias
 Estas são as principais tecnologias utilizadas na construção do projeto:
