@@ -26,10 +26,7 @@
 <p align="center">
 
  ![BACKGROUND](https://github.com/Diegodossantos23/baralho-dos-signos/blob/main/assets/baralho-signos.gif?raw=true)
- 
- ![BACKGROUND](https://github.com/Diegodossantos23/baralho-dos-signos/blob/main/assets/responsive1.png?raw=true)
-
- ![BACKGROUND](https://github.com/Diegodossantos23/baralho-dos-signos/blob/main/assets/responsive2.png?raw=true)
+ ![BACKGROUND](https://github.com/Diegodossantos23/baralho-dos-signos/blob/main/assets/baralho-signos.gif?raw=true)
 </p>
 
 ## 🔨 Tecnologias
@@ -45,7 +42,7 @@ Antes de qualquer coisa, você precisa ter  o [Git](https://git-scm.com), o [npm
 
 ```bash
 # Clone este repositório:
-$ git clone https://github.com/Diegodossantos23/teste-tecnico.git
+$ git clone https://github.com/Diegodossantos23/baralho-dos-signos.git
 
 # Acesse à pasta do projeto:
 cd baralhosignos
